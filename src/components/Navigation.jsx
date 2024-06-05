@@ -8,8 +8,6 @@ import useFirestoreUser from '../hooks/useFirestoreUser';
 const navigation = [
     { name: 'Dashboard', href: '/', current: true },
     { name: 'Feedback', href: '/feedback', current: false },
-    { name: 'Projects', href: '#', current: false },
-    { name: 'Calendar', href: '#', current: false },
 ]
 
 function classNames(...classes) {
