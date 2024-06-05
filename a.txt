@@ -1,0 +1,34 @@
+#715DF2  (roxo);
+
+
+Nome da Solicitação: Um campo para os usuários darem um nome à solicitação de feedback, para facilitar a identificação posterior.
+
+Descrição: Um campo para os usuários fornecerem uma descrição ou contexto adicional sobre a solicitação de feedback.
+
+Perguntas de Avaliação: Campos para os usuários adicionarem as perguntas específicas que desejam incluir na solicitação de feedback. Isso pode incluir perguntas abertas, de múltipla escolha, escalas de classificação, etc.
+
+Critérios de Avaliação: Campos para os usuários definirem os critérios ou áreas específicas que desejam avaliar. Por exemplo, habilidades técnicas, competências comportamentais, liderança, etc.
+
+Data Limite: Um campo para os usuários definirem uma data limite para o envio do feedback.
+Seleção de Contatos: Uma opção para os usuários selecionarem os contatos para quem desejam enviar o convite de feedback. Isso pode ser integrado com a seção de contatos que você desenvolveu anteriormente.
+Opções de Privacidade: Opções para os usuários escolherem se desejam manter a solicitação de feedback privada ou compartilhá-la com outros colegas de trabalho.
+
+
+1. Dashboard de Atividade Recente
+Solicitações Recentes: Mostre as últimas solicitações de feedback que o usuário enviou ou recebeu.
+Respostas Recentes: Destaque as respostas recentes que o usuário recebeu para suas solicitações.
+2. Resumo de Feedback
+Feedbacks Pendentes: Uma seção mostrando solicitações de feedback que ainda não foram respondidas.
+Feedbacks Completos: Um resumo de todos os feedbacks que foram concluídos, com links para visualizar os detalhes.
+3. Estatísticas e Insights
+Total de Solicitações e Respostas: Mostre o número total de solicitações de feedback enviadas e respondidas.
+Gráficos e Charts: Use gráficos de barra ou pizza para visualizar a distribuição de tipos de feedback (ex. quantos foram positivos, negativos, ou neutros).
+4. Atalhos para Ações Comuns
+Botões de Ação Rápida: Adicione botões para "Solicitar Novo Feedback" e "Responder Feedbacks Pendentes".
+Filtros e Pesquisas: Permita que os usuários filtrem feedbacks por período (última semana, mês, etc.) ou por status (pendente, respondido).
+5. Dicas e Sugestões
+Dicas para Feedback Eficaz: Inclua uma seção com dicas sobre como dar e receber feedback construtivo.
+Notícias e Atualizações: Informações sobre atualizações do sistema ou novos recursos.
+6. Perfil do Usuário
+Resumo do Perfil: Mostre informações básicas do perfil do usuário, como nome, email, foto de perfil.
+Configurações de Notificações: Permita que o usuário configure preferências de notificação (ex. receber alertas por email quando um feedback é respondido).
