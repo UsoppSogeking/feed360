@@ -34,7 +34,6 @@ O objetivo de criar Feed360 é destacar a importância do feedback no cresciment
 
 - **Backend/API**:
   - Firebase Firestore (para armazenamento e gerenciamento de dados)
-  - Formspree (para envio de formulários de contato)
 
 ## Como Rodar o Projeto
 
